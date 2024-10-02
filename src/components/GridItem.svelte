@@ -15,7 +15,7 @@
     <div class="card-body">
         <h2 class="card-title">{title}</h2>
         <div class="card-actions justify-end">
-            <a href="{link}" target="_blank" class="btn btn-primary">Buy Now</a>
+            <a href="{link}" target="_blank" class="btn btn-primary">En savoir plus</a>
         </div>
     </div>
 </div>
