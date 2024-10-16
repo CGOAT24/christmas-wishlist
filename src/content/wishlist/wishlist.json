@@ -1,14 +1,54 @@
 {
   "items": [
     {
-      "title": "Manteau Carhartt",
-      "link": "https://www.carhartt.com/product/103828-BRNXLTLL/mens-blanket-lined-detroit-jacket---relaxed-fit---duck---1-warm-rating",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bobssportschalet.com%2Fprodimages%2F96085-CARHARTT_BROWN-l.jpg&f=1&nofb=1&ipt=a53c8d899cb8eaf95938b94418b028cd97f3b9eddf53036516f0a26d38bbaa49&ipo=images"
+      "link": "https://www.ninjakitchen.ca/products/ninja-professional-plus-blender-with-auto-iq-zidBN701C",
+      "title": "Blender",
+      "image": "https://res.cloudinary.com/sharkninja-na/image/upload/c_fit,h_900,w_900/v1/SharkNinja-NA/BN701C_01?_a=BAKAACDX0"
     },
     {
-      "title": "Foundation",
-      "link": "https://www.amazon.ca/Foundation-Isaac-Asimov/dp/0553293354",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-G7Nvh-e7C5A%2FXvLb5AnZgQI%2FAAAAAAAAZWY%2FDO6CyMmOQyQcKdteA9IznenPZFi7V4RxgCK4BGAsYHg%2Fs964%2Ffoundation-asimov-cover.png&f=1&nofb=1&ipt=404927f5eb68a8ddbdab3e1bd04226f2e7bfd8b6b5ec0a94455a67121661c992&ipo=images"
+      "title": "Cuiseur à riz",
+      "link": "https://www.canadiantire.ca/fr/pdp/cuiseur-a-riz-et-cuiseur-a-vapeur-antiadhesif-black-decker-blanc-16-tasses-0431373p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/kitchen-appliances/0431373/black-decker-16-cup-rice-cooker-ac0875c9-093a-469f-aa88-b8733ef9d3b1-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Toaster",
+      "link": "https://www.canadiantire.ca/en/pdp/breville-a-bit-more-4-slice-toaster-brushed-stainless-steel-0435184p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/kitchen-appliances/0435184/breville-bit-more-4-slice-toaster-5c2a2da7-eb57-45a7-80b6-b667a7c477a4.png?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Micro-ondes",
+      "link": "https://www.breville.com/ca/fr/products/microwaves/bmo625.html?sku=BMO625SIL1BCA1",
+      "image": "https://www.breville.com/content/dam/breville/ca/catalog/products/images/bmo/bmo625sil1bca1/pdp.jpg?pdp"
+    },
+    {
+      "title": "Bouilloire",
+      "link": "https://www.breville.com/ca/fr/products/kettles/bke595.html?sku=BKE595XL",
+      "image": "https://www.breville.com/content/dam/breville/ca/catalog/products/images/bke/bke595xl/pdp.jpg?pdp"
+    },
+    {
+      "title": "Poêle en fonte",
+      "link": "https://www.canadiantire.ca/fr/pdp/poele-a-frire-lagostina-en-fonte-pretraitee-allant-au-four-et-au-gril-noir-26-cm-1428323p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/cookware/1428323/lagostina-black-cast-iron-10-frypan-e48062a1-39fa-4e80-abee-322fbddcd200-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Ensemble de couteaux",
+      "link": "https://www.canadiantire.ca/fr/pdp/bloc-a-couteaux-forges-en-acier-inoxydable-de-premiere-qualite-ninja-avec-affuteuse-12-pieces-1429672p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/cutlery/1429672/ninja-12-pc-forged-knife-block-set-14896607-e8c2-4ff3-9f1e-5f743ba90896.png?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Planche à découper",
+      "link": "https://www.canadiantire.ca/fr/pdp/planche-a-decouper-style-bloc-de-boucher-en-erable-paderno-antipatinage-16-x-20-po-1429358p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/cutlery/1429358/paderno-butcher-block-9b6cb747-5b6a-4e76-a382-233bf7094424-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Plats de cuisson",
+      "link": "https://www.canadiantire.ca/fr/pdp/plats-de-cuisson-antiadhesifs-master-chef-paq-7-1425488p.html",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/bakeware-baking-prep/1425488/7-piece-bakeware-set-fec0a734-6f8e-4c63-a0f5-fe11d1a3ddc3-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+    },
+    {
+      "title": "Circulateur d'immersion thermique",
+      "link": "https://www.amazon.ca/Inkbird-Immersion-Temperature-Stainless-Circulator/dp/B07RNWJZNR",
+      "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg"
     },
     {
       "title": "Turin DF54",
@@ -21,14 +61,29 @@
       "link": "https://www.amazon.ca/dp/B09886G7P6/"
     },
     {
+      "title": "Ninja Creami",
+      "link": "https://www.amazon.ca/dp/B0CHBNXJ24/?psc=1",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images"
+    },
+    {
+      "title": "Barre de son",
+      "link": "https://www.sonos.com/fr-ca/shop/entertainment-set-arc-ultra-sub-black",
+      "image": "https://media.sonos.com/images/znqtjj88/production/aeef058f77415f1bfe6152310817e227fee8e078-2480x2480.png?w=384&q=100&fit=clip&auto=format"
+    },
+    {
       "title": "Chandelles",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wicksnmore.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fautumn-leaves-pillar-candles-low-1000x1000.jpg&f=1&nofb=1&ipt=8d9f143090035d7938536f0671e913cc2004fbaa63c1067582f212de2c771066&ipo=images",
       "link": "https://www.amazon.ca/Scented-Candles-Chandelles-Parfum%C3%A9es-Aromatherapy/dp/B09KKMLB77"
     },
     {
-      "title": "Ninja Creami",
-      "link": "https://www.amazon.ca/dp/B0CHBNXJ24/?psc=1",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images"
+      "title": "Manteau Carhartt",
+      "link": "https://www.carhartt.com/product/103828-BRNXLTLL/mens-blanket-lined-detroit-jacket---relaxed-fit---duck---1-warm-rating",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bobssportschalet.com%2Fprodimages%2F96085-CARHARTT_BROWN-l.jpg&f=1&nofb=1&ipt=a53c8d899cb8eaf95938b94418b028cd97f3b9eddf53036516f0a26d38bbaa49&ipo=images"
+    },
+    {
+      "title": "Foundation",
+      "link": "https://www.amazon.ca/Foundation-Isaac-Asimov/dp/0553293354",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-G7Nvh-e7C5A%2FXvLb5AnZgQI%2FAAAAAAAAZWY%2FDO6CyMmOQyQcKdteA9IznenPZFi7V4RxgCK4BGAsYHg%2Fs964%2Ffoundation-asimov-cover.png&f=1&nofb=1&ipt=404927f5eb68a8ddbdab3e1bd04226f2e7bfd8b6b5ec0a94455a67121661c992&ipo=images"
     },
     {
       "link": "https://www.amazon.ca/dp/B07RW6Z692/?psc=1",
@@ -129,6 +184,11 @@
       "title": "The Land Is Inhospitable And So Are We",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic116%2Fv4%2F8f%2F4b%2F40%2F8f4b4044-d02b-dc25-7d01-7d9d225fdce4%2F40240.jpg%2F1200x1200bf-60.jpg&f=1&nofb=1&ipt=b9814663cc0e331f43999a67065133767237f2f9af11581076b366d30f0afb59&ipo=images",
       "link": "https://www.turntablelab.com/products/mitski-the-land-is-inhospitable-and-so-are-we-indie-exclusive-colored-vinyl-vinyl-lp"
+    },
+    {
+      "title": "NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD",
+      "link": "https://cstrecords.com/products/cst183",
+      "image": "https://cstrecords.com/cdn/shop/files/CST183_Cover_3600px_900x.jpg?v=1723053261"
     }
   ]
 }
