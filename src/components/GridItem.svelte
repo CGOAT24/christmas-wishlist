@@ -7,9 +7,9 @@
 <div class="card card-compact bg-base-100 w-96 shadow-xl m-3">
     <figure>
         <img
-                src="{image}"
-                alt="{title}"
-                class="aspect-square"
+            src="{image}"
+            alt="{title}"
+            class="aspect-square"
         />
     </figure>
     <div class="card-body">
