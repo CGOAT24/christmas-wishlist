@@ -1,34 +1,92 @@
 {
   "items": [
     {
-      "title": "Circulateur d'immersion thermique",
+      "title": "Marshall Willen Portable Bluetooth Speaker",
+      "link": "https://www.amazon.ca/dp/B0B25GGTLY/",
+      "image": "https://m.media-amazon.com/images/I/61XHgHvPiPL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "1000 Record Covers de Michael Ochs",
+      "link": "https://www.amazon.ca/dp/383655058X/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/91-aLFaVEGL._SL1500_.jpg"
+    },
+    {
+      "title": "Sous vide cooker",
       "link": "https://www.amazon.ca/Inkbird-Immersion-Temperature-Stainless-Circulator/dp/B07RNWJZNR",
-      "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg",
+      "category": "Apartment"
+    },
+    {
+      "title": "Nike Air Max Alpha Trainer 6",
+      "link": "https://www.nike.com/ca/t/air-max-alpha-trainer-6-workout-shoes-kPTTDz/FQ1833-001",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99852c57-8f84-40eb-81af-a36fda66acb1/M+AIR+MAX+ALPHA+TRAINER+6.png",
+      "category": "Gym"
     },
     {
       "title": "Ninja Creami",
       "link": "https://www.amazon.ca/dp/B0CHBNXJ24/?psc=1",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images",
+      "category": "Apartment"
+    },
+    {
+      "title": "Rice cooker",
+      "link": "https://www.amazon.ca/dp/B074F16GJT/",
+      "image": "https://m.media-amazon.com/images/I/611L+lthBPL._AC_SL1500_.jpg",
+      "category": "Apartment"
     },
     {
       "title": "Sonos Arc Ultra",
       "link": "https://www.sonos.com/fr-ca/shop/arc-ultra-black",
-      "image": "https://media.sonos.com/images/znqtjj88/production/c6e84e0ad4ee82bcada3148dee547f972f2e2d7f-2880x2880.png?fit=clip&auto=format"
+      "image": "https://media.sonos.com/images/znqtjj88/production/c6e84e0ad4ee82bcada3148dee547f972f2e2d7f-2880x2880.png?fit=clip&auto=format",
+      "category": "Apartment"
     },
     {
       "title": "Yeti Rambler",
       "link": "https://www.yeti.ca/drinkware-and-cookware/coffee-and-mugs/70000002306.html",
-      "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format"
+      "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format",
+      "category": "Apartment"
     },
     {
       "title": "Turin DF54",
       "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falternativebrewing.com.au%2Fcdn%2Fshop%2Ffiles%2FTurin-DF54-Single-Dose-Coffee-Grinder_1.jpg%3Fv%3D1708489734&f=1&nofb=1&ipt=1d53259c8f14ee2d4620112d9d6d4c7e1ac0930fa260e652fb1bfd7102969488&ipo=images",
-      "link": "https://www.turingrinders.com/products/turin-df54-single-dose-flat-burr-grinder"
+      "link": "https://www.turingrinders.com/products/turin-df54-single-dose-flat-burr-grinder",
+      "category": "Apartment"
     },
     {
-      "title": "Portafiltre sans fond",
+      "title": "Bottomless portafilter",
       "image": "https://m.media-amazon.com/images/I/61q5R9BbcSL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.ca/dp/B09886G7P6/"
+      "link": "https://www.amazon.ca/dp/B09886G7P6/",
+      "category": "Apartment"
+    },
+    {
+      "title": "Sofa",
+      "link": "https://www.amazon.ca/dp/B0CZDXW6LF/",
+      "image": "https://m.media-amazon.com/images/I/71bdZzvK1PL._AC_SL1500_.jpg",
+      "category": "Apartment"
+    },
+    {
+      "title": "Denon PMA-600NE",
+      "link": "https://www.turntablelab.com/products/denon-pma-600ne-integrated-amplifier-w-bluetooth",
+      "image": "https://www.turntablelab.com/cdn/shop/products/denon-pma-600ne-integrated-amplifier-1_f87c3766-5e37-4697-a06b-ffeeaa5737cc_1800x1800.jpg?v=1676067237",
+      "category": "Vinyl"
+    },
+    {
+      "title": "Pro-Ject Phono Box DC Pre-Amp",
+      "link": "https://www.turntablelab.com/collections/phono-preamps-alpha/products/pro-ject-phono-box-dc-phono-pre-amp-black",
+      "image": "https://www.turntablelab.com/cdn/shop/products/project-phonoboxdc-blk_1200x1200.jpg?v=1571263132",
+      "category": "Vinyl"
+    },
+    {
+      "title": "Pro-Ject Speaker Box 5",
+      "link": "https://www.turntablelab.com/collections/passive-speakers-alpha/products/pro-ject-speaker-box-5-pair?variant=199201462",
+      "image": "https://www.turntablelab.com/cdn/shop/products/project-speakerbox5-black_1701x1701.jpg?v=1571262648",
+      "category": "Vinyl"
+    },
+    {
+      "title": "HIFIMAN Edition XS",
+      "link": "https://www.amazon.ca/dp/B09PH1N67T/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/71SS64N6ZJL._AC_SL1500_.jpg",
+      "category": "Vinyl"
     },
     {
       "title": "Foundation de Isaac Asimov",
@@ -41,89 +99,136 @@
       "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1478246_lifestyle?$rl_1x1_pdp$"
     },
     {
-      "title": "Nike Air Max Alpha Trainer 6",
-      "link": "https://www.nike.com/ca/t/air-max-alpha-trainer-6-workout-shoes-kPTTDz/FQ1833-001",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99852c57-8f84-40eb-81af-a36fda66acb1/M+AIR+MAX+ALPHA+TRAINER+6.png"
-    },
-    {
-      "title": "Sac de gym",
+      "title": "Gym bag",
       "image": "https://cdn.shopify.com/s/files/1/2446/8477/files/SharkheadHoldallGSBlackI3A4S-BB2J-0215_a16cfa8c-ecba-468d-98aa-6d969b97c1fb_3840x.jpg?v=1723476162",
-      "link": "https://ca.gymshark.com/products/gymshark-sharkhead-holdall-black-ss24"
+      "link": "https://ca.gymshark.com/products/gymshark-sharkhead-holdall-black-ss24",
+      "category": "Gym"
     },
     {
-      "title": "Edamames Grillés",
+      "title": "Gym kit",
+      "link": "https://www.pinchprovisions.com/collections/fitness/products/gym-kit",
+      "image": "https://www.pinchprovisions.com/cdn/shop/files/unisex-gym-kit-mugshot-alt-black-vegan-leather.jpg?v=1723144718",
+      "category": "Gym"
+    },
+    {
+      "title": "Grilled edamames",
       "link": "https://shopsante.ca/collections/collations-proteinees-new-1/products/go-beanz-jimmy-sevigny-26g",
-      "image": "https://shopsante.ca/cdn/shop/files/CopiedeGO_BEANZ_DISPLAY30SACS-6031.jpg?v=1718048313&width=2820"
+      "image": "https://shopsante.ca/cdn/shop/files/CopiedeGO_BEANZ_DISPLAY30SACS-6031.jpg?v=1718048313&width=2820",
+      "category": "Gym"
     },
     {
       "title": "Quest chips",
       "link": "https://shopsante.ca/collections/collations-proteinees-new-1/products/quest-protein-chips-32g",
-      "image": "https://shopsante.ca/cdn/shop/products/cbbcbcbbc_a7f0811a-e23c-4074-82d8-b293f94a11bc.jpg?v=1718046662&width=480"
+      "image": "https://shopsante.ca/cdn/shop/products/cbbcbcbbc_a7f0811a-e23c-4074-82d8-b293f94a11bc.jpg?v=1718046662&width=480",
+      "category": "Gym"
     },
     {
-      "title": "Barres protéinées",
+      "title": "Protein bars",
       "link": "https://shopsante.ca/products/barebells-bar-proteinee-55g?variant=41368581374019",
-      "image": "https://shopsante.ca/cdn/shop/files/Barebells_Creamy_crisp_packshot_us-576x576_576x_54ecf045-2d08-433a-a98a-504dcf2685de.png?v=1718050467&width=1860"
+      "image": "https://shopsante.ca/cdn/shop/files/Barebells_Creamy_crisp_packshot_us-576x576_576x_54ecf045-2d08-433a-a98a-504dcf2685de.png?v=1718050467&width=1860",
+      "category": "Gym"
     },
     {
-      "title": "Poudre de protéine",
+      "title": "Protein powder",
       "link": "https://shopsante.ca/products/vrac-isolate?variant=23683256254528",
-      "image": "https://shopsante.ca/cdn/shop/files/Vrac_Isolate_Biscuitetcr_e_05b4dc0e-8846-45f2-8f2d-192d9432030f.jpg?v=1718046060&width=1860"
+      "image": "https://shopsante.ca/cdn/shop/files/Vrac_Isolate_Biscuitetcr_e_05b4dc0e-8846-45f2-8f2d-192d9432030f.jpg?v=1718046060&width=1860",
+      "category": "Gym"
     },
     {
       "title": "Preworkout",
       "link": "https://shopsante.ca/products/allmax-impact-igniter-extrem-360g?variant=40866618179651",
-      "image": "https://shopsante.ca/cdn/shop/files/main.jpg?v=1718048134&width=840"
+      "image": "https://shopsante.ca/cdn/shop/files/main.jpg?v=1718048134&width=840",
+      "category": "Gym"
     },
     {
-      "title": "Créatine",
+      "title": "Creatine",
       "link": "https://shopsante.ca/collections/creatine-new/products/allmax-creatine-monohydrate-400g",
-      "image": "https://shopsante.ca/cdn/shop/products/isddsidsooidsio_5f856a65-8d8f-4417-866d-7f358596b4e2.jpg?v=1718046401&width=480"
+      "image": "https://shopsante.ca/cdn/shop/products/isddsidsooidsio_5f856a65-8d8f-4417-866d-7f358596b4e2.jpg?v=1718046401&width=480",
+      "category": "Gym"
     },
     {
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-8DvK4-tkTwA%2FVs3WmKBTBnI%2FAAAAAAAAH3I%2F30O8oXnuVQM%2Fs1600%2FDavid-Bowie-The-Rise-and-Fall-of-Ziggy-Stardust-and-the-Spiders-from-Mars.jpg&f=1&nofb=1&ipt=1f04f363033821ca14a14304365d3b70f0a33007b11ac4f16dbb0a5d164f8f7d&ipo=images",
       "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
-      "link": "https://www.amazon.ca/Rise-Ziggy-Stardust-Spiders-Vinyl/dp/B01AJZ8EMG"
+      "link": "https://www.amazon.ca/Rise-Ziggy-Stardust-Spiders-Vinyl/dp/B01AJZ8EMG",
+      "category": "Vinyl"
     },
     {
       "link": "https://pdoomrecords.com/products/flight-b741",
       "title": "Flight b741",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconsequence.net%2Fwp-content%2Fuploads%2F2024%2F07%2Fking-gizzard-lizard-wizard-flight-b741-artwork.jpg%3Fresize%3D300&f=1&nofb=1&ipt=1c646c59b01407768cf52438836d7e8687693381ac0c24aea81be18e42b1a059&ipo=images"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconsequence.net%2Fwp-content%2Fuploads%2F2024%2F07%2Fking-gizzard-lizard-wizard-flight-b741-artwork.jpg%3Fresize%3D300&f=1&nofb=1&ipt=1c646c59b01407768cf52438836d7e8687693381ac0c24aea81be18e42b1a059&ipo=images",
+      "category": "Vinyl"
     },
     {
       "title": "Room On Fire",
       "link": "https://vinyl.com/products/the-strokes-room-on-fire-blue-colored-vinyl",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-fXAK2ydPw3M%2FWjNbzybaSQI%2FAAAAAAAAL_k%2Fkq3YIcxhaxIUKdWlsVSNMbBk29hG9lqeQCLcBGAs%2Fs1600%2FRoom%252BOn%252BFire.jpg&f=1&nofb=1&ipt=8eb172a8945fa9356bd45ffb4679cfe8c05da96c3274436d0eae8042de16cf2d&ipo=images"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-fXAK2ydPw3M%2FWjNbzybaSQI%2FAAAAAAAAL_k%2Fkq3YIcxhaxIUKdWlsVSNMbBk29hG9lqeQCLcBGAs%2Fs1600%2FRoom%252BOn%252BFire.jpg&f=1&nofb=1&ipt=8eb172a8945fa9356bd45ffb4679cfe8c05da96c3274436d0eae8042de16cf2d&ipo=images",
+      "category": "Vinyl"
     },
     {
       "title": "The Queen Is Dead",
       "link": "https://www.sunriserecords.com/product/825646658879/queen-is-dead",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconteudo.imguol.com.br%2Fblogs%2F136%2Ffiles%2F2016%2F06%2Fsmiths-the-queen-is-dead.jpg&f=1&nofb=1&ipt=5d2a47dc8428a705cf12963f157e9a0401ae6589890eb9863edad818f642ecdb&ipo=images"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconteudo.imguol.com.br%2Fblogs%2F136%2Ffiles%2F2016%2F06%2Fsmiths-the-queen-is-dead.jpg&f=1&nofb=1&ipt=5d2a47dc8428a705cf12963f157e9a0401ae6589890eb9863edad818f642ecdb&ipo=images",
+      "category": "Vinyl"
     },
     {
       "title": "Bridge Over Troubled Water",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2F233QiBjq6X2bt92nzs_ze_cqfbc%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-7397514-1475915593-2162.jpeg.jpg&f=1&nofb=1&ipt=6ebfc9b161ec17fcd86cfeb865d1345f1ebc4ac7b0095cda6816e8e1761a252f&ipo=images",
-      "link": "https://vinyl.com/products/simon-garfunkel-bridge-over-troubled-water"
+      "link": "https://vinyl.com/products/simon-garfunkel-bridge-over-troubled-water",
+      "category": "Vinyl"
     },
     {
       "title": "Connla's Well",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.B5HOy80mxV3JqBVcRIwcDAHaHa%26pid%3DApi&f=1&ipt=a9e6c7ed3449bd5326728ec68d92b7700dafe82173396b4e18731d58c53f846d&ipo=images",
-      "link": "https://marujaband.myshopify.com/products/connlas-well-12-vinyl-standard-edition"
+      "link": "https://marujaband.myshopify.com/products/connlas-well-12-vinyl-standard-edition",
+      "category": "Vinyl"
     },
     {
       "title": "Good News For People Who Love Bad News",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F61RmDQUGIAL._SL1500_.jpg&f=1&nofb=1&ipt=9c926c30e7cece11407412fd39014ceac154363d166abb55c55694535931c580&ipo=images",
-      "link": "https://www.amazon.ca/Good-People-Deluxe-Coloured-Vinyl/dp/B0CWVLM37Y"
+      "link": "https://www.amazon.ca/Good-People-Deluxe-Coloured-Vinyl/dp/B0CWVLM37Y",
+      "category": "Vinyl"
     },
     {
       "title": "The New Sound",
       "link": "https://geordiegreep.bandcamp.com/album/the-new-sound",
-      "image": "https://f4.bcbits.com/img/a0536681759_10.jpg"
+      "image": "https://f4.bcbits.com/img/a0536681759_10.jpg",
+      "category": "Vinyl"
     },
     {
       "title": "NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD",
       "link": "https://cstrecords.com/products/cst183",
-      "image": "https://cstrecords.com/cdn/shop/files/CST183_Cover_3600px_900x.jpg?v=1723053261"
+      "image": "https://cstrecords.com/cdn/shop/files/CST183_Cover_3600px_900x.jpg?v=1723053261",
+      "category": "Vinyl"
+    },
+    {
+      "title": "The Legend of Zelda: Echoes of Wisdom",
+      "link": "https://www.amazon.ca/Legend-ZeldaTM-Echoes-Wisdom-Version/dp/B0D8CLXGPF",
+      "image": "https://m.media-amazon.com/images/I/81Qd2ZX+ysL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Super Mario Bros. Wonder",
+      "link": "https://www.amazon.ca/Super-Mario-Bros-TM-Wonder-Nintendo/dp/B0C8VP76Z2",
+      "image": "https://m.media-amazon.com/images/I/81sApEuu0eL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "link": "https://www.amazon.ca/Legend-ZeldaTM-Kingdom-Nintendo-Switch/dp/B0BV8XX3FF",
+      "image": "https://m.media-amazon.com/images/I/912NlV3YxCL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Metroid Dread",
+      "link": "https://www.amazon.ca/Metroid-Dread-Nintendo-Switch-Software/dp/B097B38MV1",
+      "image": "https://m.media-amazon.com/images/I/81sm13cLkSS._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Kirby and the Forgotten Land",
+      "link": "https://www.amazon.ca/KirbyTM-Forgotten-Land-Nintendo-Standard/dp/B09H6Z6PKB",
+      "image": "https://m.media-amazon.com/images/I/915PR-X7KEL._AC_SL1500_.jpg",
+      "category": "Games"
     }
   ]
 }

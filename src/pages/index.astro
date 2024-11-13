@@ -2,21 +2,34 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Grid from '../components/Grid.svelte';
-import GridItem from '../components/GridItem.svelte';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import GridSection from '../components/GridSection.svelte';
+import { SITE_TITLE } from '../consts';
 import { items } from "../content/wishlist/wishlist.json";
+
+const groupedItems = items.reduce((group, item) => {
+	if (!item.category) {
+		item.category = "General";
+	}
+	if (!group[item.category]) {
+		group[item.category] = [];
+	}
+	group[item.category].push(item);
+	return group;
+}, {});
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={SITE_TITLE} />
 	</head>
 	<body>
 		<Header />
 		<main class="w-full h-full">
 			<Grid>
-				{items.map(item => <GridItem title={item.title} link={item.link} image={item.image} />)}
+				{Object.keys(groupedItems).map((category) =>
+					<GridSection category={category} items={groupedItems[category]} />
+				)}
 			</Grid>
 		</main>
 	</body>
