@@ -263,6 +263,24 @@
       "category": "Apartment",
       "link": "https://www.amazon.ca/dp/B06VX2H83M/",
       "image": "https://m.media-amazon.com/images/I/51-HLsVswJL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "Espresso drinks wall art",
+      "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
+      "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
+      "category": "Apartment"
+    },
+    {
+      "title": "Kasa smart light switch",
+      "link": "https://www.amazon.ca/dp/B01EZV35QU/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/611JGGx4DPL._SL1500_.jpg",
+      "category": "Apartment"
+    },
+    {
+      "title": "Philips Hue Go",
+      "link": "https://www.amazon.ca/Philips-Hue-7602031-with-Bluetooth/dp/B07Z8CNCLN",
+      "category": "Apartment",
+      "image": "https://m.media-amazon.com/images/I/71FIbghKCdL._AC_SL1500_.jpg"
     }
   ]
 }
