@@ -47,6 +47,11 @@
       "category": "Apartment"
     },
     {
+      "link": "https://www.amazon.ca/dp/0345404475/?psc=1",
+      "title": "Do Androids Dream of Electric Sheep? - Philip K. Dick",
+      "image": "https://m.media-amazon.com/images/I/91E9fEdeW1L._SL1500_.jpg"
+    },
+    {
       "title": "Yeti Rambler",
       "link": "https://www.yeti.ca/drinkware-and-cookware/coffee-and-mugs/70000002306.html",
       "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format"
@@ -92,11 +97,6 @@
       "link": "https://www.amazon.ca/dp/B09PH1N67T/?psc=1",
       "image": "https://m.media-amazon.com/images/I/71SS64N6ZJL._AC_SL1500_.jpg",
       "category": "Vinyl"
-    },
-    {
-      "title": "Ralph Lauren cotton chino ball cap",
-      "link": "https://www.ralphlauren.ca/men-accessories-hats-scarves-gloves/cotton-chino-ball-cap/0077965283.html",
-      "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1478246_lifestyle?$rl_1x1_pdp$"
     },
     {
       "title": "Gym bag",
@@ -281,6 +281,21 @@
       "link": "https://www.amazon.ca/Philips-Hue-7602031-with-Bluetooth/dp/B07Z8CNCLN",
       "category": "Apartment",
       "image": "https://m.media-amazon.com/images/I/71FIbghKCdL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "Ralph Lauren cotton chino ball cap",
+      "link": "https://www.ralphlauren.ca/men-accessories-hats-scarves-gloves/cotton-chino-ball-cap/0077965283.html",
+      "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1478246_lifestyle?$rl_1x1_pdp$"
+    },
+    {
+      "title": "Sweatpants",
+      "link": "https://www2.hm.com/en_ca/productpage.1012056002.html",
+      "image": "https://image.hm.com/assets/hm/d8/a8/d8a85a6bcbdfb16750451b8ba44b05634d4dfd6f.jpg"
+    },
+    {
+      "title": "Frank And Oak Skyline slippers",
+      "link": "https://ca.frankandoak.com/collections/men-gift-guide-shop-all-gifts/products/1820166-002",
+      "image": "https://ca.frankandoak.com/cdn/shop/files/1820166-002.02_2000x.jpg?v=1729698116"
     }
   ]
 }
