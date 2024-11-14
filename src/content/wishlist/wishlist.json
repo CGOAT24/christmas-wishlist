@@ -6,6 +6,11 @@
       "image": "https://m.media-amazon.com/images/I/91-aLFaVEGL._SL1500_.jpg"
     },
     {
+      "title": "Foundation - Isaac Asimov",
+      "link": "https://www.amazon.ca/Foundation-Isaac-Asimov/dp/0553293354",
+      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg"
+    },
+    {
       "title": "Sous vide cooker",
       "link": "https://www.amazon.ca/Inkbird-Immersion-Temperature-Stainless-Circulator/dp/B07RNWJZNR",
       "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg",
@@ -44,8 +49,7 @@
     {
       "title": "Yeti Rambler",
       "link": "https://www.yeti.ca/drinkware-and-cookware/coffee-and-mugs/70000002306.html",
-      "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format",
-      "category": "Apartment"
+      "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format"
     },
     {
       "title": "Turin DF54",
@@ -88,11 +92,6 @@
       "link": "https://www.amazon.ca/dp/B09PH1N67T/?psc=1",
       "image": "https://m.media-amazon.com/images/I/71SS64N6ZJL._AC_SL1500_.jpg",
       "category": "Vinyl"
-    },
-    {
-      "title": "Foundation - Isaac Asimov",
-      "link": "https://www.amazon.ca/Foundation-Isaac-Asimov/dp/0553293354",
-      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg"
     },
     {
       "title": "Ralph Lauren cotton chino ball cap",
@@ -220,39 +219,16 @@
       "category": "Games"
     },
     {
-      "title": "Metroid Dread",
-      "link": "https://www.amazon.ca/Metroid-Dread-Nintendo-Switch-Software/dp/B097B38MV1",
-      "image": "https://m.media-amazon.com/images/I/81sm13cLkSS._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
       "title": "Kirby and the Forgotten Land",
       "link": "https://www.amazon.ca/KirbyTM-Forgotten-Land-Nintendo-Standard/dp/B09H6Z6PKB",
       "image": "https://m.media-amazon.com/images/I/915PR-X7KEL._AC_SL1500_.jpg",
       "category": "Games"
     },
     {
-      "title": "Neon White",
-      "link": "https://www.amazon.ca/Neon-White/dp/B0CBQLX138",
-      "image": "https://m.media-amazon.com/images/I/71Ochj8yrpL._AC_SL1360_.jpg",
-      "category": "Games"
-    },
-    {
-      "title": "Sea of Stars",
-      "link": "https://www.amazon.ca/Sea-of-Stars/dp/B0CV41SW9T",
-      "image": "https://m.media-amazon.com/images/I/71qYRuVoXJL._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
-      "title": "Sonic Frontiers",
-      "link": "https://www.amazon.ca/Sonic-Frontiers/dp/B0BB13V163",
-      "image": "https://m.media-amazon.com/images/I/81Fq2dHXTWL._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
       "title": "Steam Deck docking station",
       "link": "https://store.steampowered.com/steamdeckdock",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images",
+      "category": "Games"
     },
     {
       "title": "London Calling",
@@ -267,10 +243,10 @@
       "category": "Vinyl"
     },
     {
-      "title": "Persona 5 Royal",
+      "title": "PS5 charging station",
       "category": "Games",
-      "link": "https://www.amazon.ca/Persona-5-Royal/dp/B0BF9L5CK8",
-      "image": "https://m.media-amazon.com/images/I/81--2UBmfgL._AC_SL1499_.jpg"
+      "link": "https://www.amazon.ca/DualSense-Charging-Station/dp/B08FC6Y4VG",
+      "image": "https://m.media-amazon.com/images/I/51jLsY8Yx0L._AC_SL1000_.jpg"
     },
     {
       "title": "Ahsoka Tano's Duel on Peridea Lego set",
@@ -281,6 +257,12 @@
       "title": "iPad Mini",
       "link": "https://www.apple.com/ca/shop/buy-ipad/ipad-mini/128gb-space-grey-wifi",
       "image": "https://www.apple.com/v/ipad-mini/s/images/overview/design/colors__bf5ht6zwimtu_large_2x.jpg"
+    },
+    {
+      "title": "ecobee3 Lite smart thermostat",
+      "category": "Apartment",
+      "link": "https://www.amazon.ca/dp/B06VX2H83M/",
+      "image": "https://m.media-amazon.com/images/I/51-HLsVswJL._AC_SL1500_.jpg"
     }
   ]
 }
