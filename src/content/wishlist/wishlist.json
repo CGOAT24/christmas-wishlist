@@ -229,6 +229,35 @@
       "link": "https://www.amazon.ca/KirbyTM-Forgotten-Land-Nintendo-Standard/dp/B09H6Z6PKB",
       "image": "https://m.media-amazon.com/images/I/915PR-X7KEL._AC_SL1500_.jpg",
       "category": "Games"
+    },
+    {
+      "title": "Neon White",
+      "link": "https://www.amazon.ca/Neon-White/dp/B0CBQLX138",
+      "image": "https://m.media-amazon.com/images/I/71Ochj8yrpL._AC_SL1360_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Sea of Stars",
+      "link": "https://www.amazon.ca/Sea-of-Stars/dp/B0CV41SW9T",
+      "image": "https://m.media-amazon.com/images/I/71qYRuVoXJL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Sonic Frontiers",
+      "link": "https://www.amazon.ca/Sonic-Frontiers/dp/B0BB13V163",
+      "image": "https://m.media-amazon.com/images/I/81Fq2dHXTWL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Steam Deck docking station",
+      "link": "https://store.steampowered.com/steamdeckdock",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images"
+    },
+    {
+      "title": "London Calling",
+      "link": "https://www.amazon.ca/London-Calling-Vinyl-Clash/dp/B00XDCB93Y",
+      "image": "https://m.media-amazon.com/images/I/71lsBqSZ5zL._AC_SL1000_.jpg",
+      "category": "Vinyl"
     }
   ]
 }
