@@ -35,6 +35,12 @@
       "category": "Apartment"
     },
     {
+      "title": "Toaster",
+      "link": "https://www.amazon.ca/APPLICA-Spectrum-Brands-TR4900SSD-Stainless/dp/B01MQK2DA6",
+      "category": "Apartment",
+      "image": "https://m.media-amazon.com/images/I/71BLyuNoQTL._AC_SL1500_.jpg"
+    },
+    {
       "title": "Sonos Arc Ultra",
       "link": "https://www.sonos.com/fr-ca/shop/arc-ultra-black",
       "image": "https://media.sonos.com/images/znqtjj88/production/c6e84e0ad4ee82bcada3148dee547f972f2e2d7f-2880x2880.png?fit=clip&auto=format",
@@ -160,7 +166,7 @@
     },
     {
       "title": "Room On Fire",
-      "link": "https://vinyl.com/products/the-strokes-room-on-fire-blue-colored-vinyl",
+      "link": "https://www.amazon.ca/Room-Fire-Vinyl-Strokes/dp/B0000DBJA7",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-fXAK2ydPw3M%2FWjNbzybaSQI%2FAAAAAAAAL_k%2Fkq3YIcxhaxIUKdWlsVSNMbBk29hG9lqeQCLcBGAs%2Fs1600%2FRoom%252BOn%252BFire.jpg&f=1&nofb=1&ipt=8eb172a8945fa9356bd45ffb4679cfe8c05da96c3274436d0eae8042de16cf2d&ipo=images",
       "category": "Vinyl"
     },
@@ -258,6 +264,23 @@
       "link": "https://www.amazon.ca/London-Calling-Vinyl-Clash/dp/B00XDCB93Y",
       "image": "https://m.media-amazon.com/images/I/71lsBqSZ5zL._AC_SL1000_.jpg",
       "category": "Vinyl"
+    },
+    {
+      "title": "MM.. FOOD",
+      "link": "https://www.turntablelab.com/products/mf-doom-mm-food-colored-vinyl-vinyl-2lp",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1417%2F6406%2Fproducts%2Fmm-food_1024x1024.png%3Fv%3D1623731460&f=1&nofb=1&ipt=4b3f55e74cb0d50430754ceed0d0aae7782d80476f4868e1f82af860c01e4a66&ipo=images",
+      "category": "Vinyl"
+    },
+    {
+      "title": "Persona 5 Royal",
+      "category": "Games",
+      "link": "https://www.amazon.ca/Persona-5-Royal/dp/B0BF9L5CK8",
+      "image": "https://m.media-amazon.com/images/I/81--2UBmfgL._AC_SL1499_.jpg"
+    },
+    {
+      "title": "Ahsoka Tano's Duel on Peridea Lego set",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt58faaf8c605029db/75385_Prod.png?format=webply&fit=bounds&quality=60&width=1200&height=1200&dpr=2",
+      "link": "https://www.lego.com/en-ca/product/ahsoka-tano-s-duel-on-peridea-75385"
     }
   ]
 }
