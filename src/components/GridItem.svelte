@@ -9,7 +9,7 @@
         <img
             src="{image}"
             alt="{title}"
-            class="aspect-square"
+            class="aspect-square object-contain"
         />
     </figure>
     <div class="card-body">
