@@ -23,6 +23,12 @@
       "category": "Gym"
     },
     {
+      "title": "Socks",
+      "link": "https://ca.gymshark.com/products/gymshark-crew-socks-3pk-white-light-grey-core-marl-black-ss23",
+      "category": "Gym",
+      "image": "https://cdn.shopify.com/s/files/1/2446/8477/files/CrewSocks3pk-GSWhite-LightGreyCoreMarl-GSBlack-I3A3P-WB7Z1_3840x.jpg?v=1693322960"
+    },
+    {
       "title": "Ninja Creami",
       "link": "https://www.amazon.ca/dp/B0CHBNXJ24/?psc=1",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images",
@@ -39,6 +45,12 @@
       "link": "https://www.amazon.ca/APPLICA-Spectrum-Brands-TR4900SSD-Stainless/dp/B01MQK2DA6",
       "category": "Apartment",
       "image": "https://m.media-amazon.com/images/I/71BLyuNoQTL._AC_SL1500_.jpg"
+    },
+    {
+      "category": "Apartment",
+      "link": "https://www.canadiantire.ca/en/pdp/vida-by-paderno-everyday-series-premium-stainless-steel-cookware-set-dishwasher-oven-safe-10-pc-1426340p.html",
+      "title": "Cookware set",
+      "image": "https://media-www.canadiantire.ca/product/living/kitchen/cookware/1426340/vida-10-piece-everyday-series-stainless-steel-cookset-42cb59a4-381b-4cd7-9986-33ea55b1514f.png"
     },
     {
       "title": "Sonos surround set with Beam",
@@ -67,6 +79,12 @@
       "image": "https://m.media-amazon.com/images/I/61q5R9BbcSL._AC_SL1500_.jpg",
       "link": "https://www.amazon.ca/dp/B09886G7P6/",
       "category": "Apartment"
+    },
+    {
+      "title": "Tamping station",
+      "link": "https://www.amazon.ca/dp/B0B8DBRF6D/?psc=1",
+      "category": "Apartment",
+      "image": "https://m.media-amazon.com/images/I/71yL4WsZbzL._AC_SL1500_.jpg"
     },
     {
       "title": "Sofa",
@@ -123,9 +141,15 @@
       "category": "Gym"
     },
     {
+      "title": "Protein cookies",
+      "link": "https://shopsante.ca/products/quest-protein-cookies-58g?variant=41706458742851",
+      "category": "Gym",
+      "image": "https://shopsante.ca/cdn/shop/files/109250_QN_USA_Pkg_Protein_Cookie_WCM_1ct_3D_Front_SGS_1200x_0bd1ee50-453e-48d3-a622-45de99d183fe.png?v=1722866583"
+    },
+    {
       "title": "Protein bars",
       "link": "https://shopsante.ca/products/barebells-bar-proteinee-55g?variant=41368581374019",
-      "image": "https://shopsante.ca/cdn/shop/files/Barebells_Creamy_crisp_packshot_us-576x576_576x_54ecf045-2d08-433a-a98a-504dcf2685de.png?v=1718050467&width=1860",
+      "image": "https://shopsante.ca/cdn/shop/files/Barebells_Creamy_crisp_packshot_us-576x576_576x_54ecf045-2d08-433a-a98a-504dcf2685de.png?v=1718050467",
       "category": "Gym"
     },
     {
@@ -265,15 +289,15 @@
       "image": "https://m.media-amazon.com/images/I/51-HLsVswJL._AC_SL1500_.jpg"
     },
     {
-      "title": "Espresso drinks wall art",
-      "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
-      "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
-      "category": "Apartment"
-    },
-    {
       "title": "Kasa smart light switch",
       "link": "https://www.amazon.ca/dp/B01EZV35QU/?psc=1",
       "image": "https://m.media-amazon.com/images/I/611JGGx4DPL._SL1500_.jpg",
+      "category": "Apartment"
+    },
+    {
+      "title": "Espresso drinks wall art",
+      "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
+      "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
       "category": "Apartment"
     },
     {
@@ -281,6 +305,12 @@
       "link": "https://www.amazon.ca/Philips-Hue-7602031-with-Bluetooth/dp/B07Z8CNCLN",
       "category": "Apartment",
       "image": "https://m.media-amazon.com/images/I/71FIbghKCdL._AC_SL1500_.jpg"
+    },
+    {
+      "link": "https://www.ikea.com/ca/en/p/varmblixt-led-table-wall-lamp-orange-glass-round-90525150/",
+      "category": "Apartment",
+      "title": "Ikea Varmblixt",
+      "image": "https://www.ikea.com/ca/en/images/products/varmblixt-led-table-wall-lamp-orange-glass-round__1116616_pe872535_s5.jpg"
     },
     {
       "title": "Ralph Lauren cotton chino ball cap",
