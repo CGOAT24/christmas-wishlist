@@ -71,7 +71,7 @@
     {
       "title": "Turin DF54",
       "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falternativebrewing.com.au%2Fcdn%2Fshop%2Ffiles%2FTurin-DF54-Single-Dose-Coffee-Grinder_1.jpg%3Fv%3D1708489734&f=1&nofb=1&ipt=1d53259c8f14ee2d4620112d9d6d4c7e1ac0930fa260e652fb1bfd7102969488&ipo=images",
-      "link": "https://www.turingrinders.com/products/turin-df54-single-dose-flat-burr-grinder",
+      "link": "https://www.turingrinders.com/products/turin-df54-single-dose-flat-burr-grinder-1",
       "category": "Apartment"
     },
     {
@@ -96,12 +96,6 @@
       "title": "Denon PMA-600NE",
       "link": "https://www.turntablelab.com/products/denon-pma-600ne-integrated-amplifier-w-bluetooth",
       "image": "https://www.turntablelab.com/cdn/shop/products/denon-pma-600ne-integrated-amplifier-1_f87c3766-5e37-4697-a06b-ffeeaa5737cc_1800x1800.jpg?v=1676067237",
-      "category": "Vinyl"
-    },
-    {
-      "title": "Pro-Ject Phono Box DC Pre-Amp",
-      "link": "https://www.turntablelab.com/collections/phono-preamps-alpha/products/pro-ject-phono-box-dc-phono-pre-amp-black",
-      "image": "https://www.turntablelab.com/cdn/shop/products/project-phonoboxdc-blk_1200x1200.jpg?v=1571263132",
       "category": "Vinyl"
     },
     {
@@ -139,12 +133,6 @@
       "link": "https://shopsante.ca/collections/collations-proteinees-new-1/products/quest-protein-chips-32g",
       "image": "https://shopsante.ca/cdn/shop/products/cbbcbcbbc_a7f0811a-e23c-4074-82d8-b293f94a11bc.jpg?v=1718046662&width=480",
       "category": "Gym"
-    },
-    {
-      "title": "Protein cookies",
-      "link": "https://shopsante.ca/products/quest-protein-cookies-58g?variant=41706458742851",
-      "category": "Gym",
-      "image": "https://shopsante.ca/cdn/shop/files/109250_QN_USA_Pkg_Protein_Cookie_WCM_1ct_3D_Front_SGS_1200x_0bd1ee50-453e-48d3-a622-45de99d183fe.png?v=1722866583"
     },
     {
       "title": "Protein bars",
@@ -203,7 +191,7 @@
     {
       "title": "Connla's Well",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.B5HOy80mxV3JqBVcRIwcDAHaHa%26pid%3DApi&f=1&ipt=a9e6c7ed3449bd5326728ec68d92b7700dafe82173396b4e18731d58c53f846d&ipo=images",
-      "link": "https://marujaband.myshopify.com/products/connlas-well-12-vinyl-standard-edition",
+      "link": "https://maruja.terrible.group/products/connlas-well-12-vinyl-standard-black-edition",
       "category": "Vinyl"
     },
     {
@@ -273,11 +261,6 @@
       "image": "https://m.media-amazon.com/images/I/51jLsY8Yx0L._AC_SL1000_.jpg"
     },
     {
-      "title": "Ahsoka Tano's Duel on Peridea Lego set",
-      "image": "https://www.lego.com/cdn/cs/set/assets/blt58faaf8c605029db/75385_Prod.png?format=webply&fit=bounds&quality=60&dpr=2",
-      "link": "https://www.lego.com/en-ca/product/ahsoka-tano-s-duel-on-peridea-75385"
-    },
-    {
       "title": "iPad Mini",
       "link": "https://www.apple.com/ca/shop/buy-ipad/ipad-mini/128gb-space-grey-wifi",
       "image": "https://www.apple.com/v/ipad-mini/s/images/overview/design/colors__bf5ht6zwimtu_large_2x.jpg"
@@ -313,19 +296,9 @@
       "image": "https://www.ikea.com/ca/en/images/products/varmblixt-led-table-wall-lamp-orange-glass-round__1116616_pe872535_s5.jpg"
     },
     {
-      "title": "Ralph Lauren cotton chino ball cap",
-      "link": "https://www.ralphlauren.ca/men-accessories-hats-scarves-gloves/cotton-chino-ball-cap/0077965283.html",
-      "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1478246_lifestyle?$rl_1x1_pdp$"
-    },
-    {
       "title": "Sweatpants",
       "link": "https://www2.hm.com/en_ca/productpage.1012056002.html",
       "image": "https://image.hm.com/assets/hm/d8/a8/d8a85a6bcbdfb16750451b8ba44b05634d4dfd6f.jpg"
-    },
-    {
-      "title": "Frank And Oak Skyline slippers",
-      "link": "https://ca.frankandoak.com/collections/men-gift-guide-shop-all-gifts/products/1820166-002",
-      "image": "https://ca.frankandoak.com/cdn/shop/files/1820166-002.02_2000x.jpg?v=1729698116"
     }
   ]
 }
