@@ -47,9 +47,9 @@
       "image": "https://media-www.canadiantire.ca/product/living/kitchen/cookware/1426340/vida-10-piece-everyday-series-stainless-steel-cookset-42cb59a4-381b-4cd7-9986-33ea55b1514f.png"
     },
     {
-      "title": "Sonos surround set with Beam",
-      "link": "https://www.sonos.com/en-ca/shop/surround-set-beam-era-100-pair-black",
-      "image": "https://media.sonos.com/images/znqtjj88/production/ef41a91eac4587907e9c289f556158bbe77a7dff-1770x1770.png?fit=clip&auto=format",
+      "title": "Sonos personal entertainment set with Beam",
+      "link": "https://www.sonos.com/en-ca/shop/personal-entertainment-set-sonos-ace-beam-black",
+      "image": "https://media.sonos.com/images/znqtjj88/production/a44e92533c4a48b7e9c8767318bfc803ee25fe6e-1713x1713.png?w=828&q=100&fit=clip&auto=format",
       "category": "Apartment"
     },
     {
@@ -79,6 +79,12 @@
       "link": "https://www.amazon.ca/dp/B0B8DBRF6D/?psc=1",
       "category": "Apartment",
       "image": "https://m.media-amazon.com/images/I/71yL4WsZbzL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "Hario V60 pourover set",
+      "link": "https://www.hario-canada.ca/products/hario-craft-coffee-maker-pourover-kit?variant=29441399881811",
+      "category": "Apartment",
+      "image": "https://www.hario-canada.ca/cdn/shop/products/hario_vcnd-02b-ex_v60-craft-coffee-maker_pourover-set_1024x1024.jpg?v=1668441744"
     },
     {
       "title": "Sofa",
@@ -237,12 +243,6 @@
       "category": "Vinyl"
     },
     {
-      "title": "MM.. FOOD",
-      "link": "https://www.turntablelab.com/products/mf-doom-mm-food-colored-vinyl-vinyl-2lp",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1417%2F6406%2Fproducts%2Fmm-food_1024x1024.png%3Fv%3D1623731460&f=1&nofb=1&ipt=4b3f55e74cb0d50430754ceed0d0aae7782d80476f4868e1f82af860c01e4a66&ipo=images",
-      "category": "Vinyl"
-    },
-    {
       "title": "PS5 charging station",
       "category": "Games",
       "link": "https://www.amazon.ca/DualSense-Charging-Station/dp/B08FC6Y4VG",
@@ -276,11 +276,6 @@
       "category": "Apartment",
       "title": "Ikea Varmblixt",
       "image": "https://www.ikea.com/ca/en/images/products/varmblixt-led-table-wall-lamp-orange-glass-round__1116616_pe872535_s5.jpg"
-    },
-    {
-      "title": "Sweatpants",
-      "link": "https://www2.hm.com/en_ca/productpage.1012056002.html",
-      "image": "https://image.hm.com/assets/hm/d8/a8/d8a85a6bcbdfb16750451b8ba44b05634d4dfd6f.jpg"
     }
   ]
 }
