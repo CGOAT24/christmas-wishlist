@@ -58,9 +58,9 @@
       "image": "https://m.media-amazon.com/images/I/91E9fEdeW1L._SL1500_.jpg"
     },
     {
-      "title": "Yeti Rambler",
-      "link": "https://www.yeti.ca/drinkware-and-cookware/coffee-and-mugs/70000002306.html",
-      "image": "https://yeti-web.imgix.net/3010210533384ba3/W-Drinkware_MugMS_24oz_Black_Studio_PrimaryB.png?bg=0fff&auto=format"
+      "title": "Yeti Rambler 24oz mug",
+      "link": "https://www.amazon.ca/dp/B0CT6BQ9L1/",
+      "image": "https://m.media-amazon.com/images/I/51W0QzzbehL._AC_SL1500_.jpg"
     },
     {
       "title": "Turin DF54",
@@ -243,6 +243,12 @@
       "category": "Vinyl"
     },
     {
+      "title": "GNX",
+      "link": "https://www.umusic.ca/collections/kendrick-lamar/products/gnx-180g-lp",
+      "category": "Vinyl",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.pitchfork.com%2Fphotos%2F6740bc83a906f31c38618d15%2Fmaster%2Fw_1280%252Cc_limit%2FKendrick-Lamar-GNX.jpeg&f=1&nofb=1&ipt=1de717bf2bacf9c4025412371da250203c0b00490c19dde1fb47e7a9907738c1&ipo=images"
+    },
+    {
       "title": "PS5 charging station",
       "category": "Games",
       "link": "https://www.amazon.ca/DualSense-Charging-Station/dp/B08FC6Y4VG",
@@ -252,12 +258,6 @@
       "title": "iPad Mini",
       "link": "https://www.apple.com/ca/shop/buy-ipad/ipad-mini/128gb-space-grey-wifi",
       "image": "https://www.apple.com/v/ipad-mini/s/images/overview/design/colors__bf5ht6zwimtu_large_2x.jpg"
-    },
-    {
-      "title": "ecobee3 Lite smart thermostat",
-      "category": "Apartment",
-      "link": "https://www.amazon.ca/dp/B06VX2H83M/",
-      "image": "https://m.media-amazon.com/images/I/51-HLsVswJL._AC_SL1500_.jpg"
     },
     {
       "title": "Espresso drinks wall art",
