@@ -87,6 +87,12 @@
       "image": "https://www.hario-canada.ca/cdn/shop/products/hario_vcnd-02b-ex_v60-craft-coffee-maker_pourover-set_1024x1024.jpg?v=1668441744"
     },
     {
+      "title": "La Marzocco Linea Micra",
+      "link": "https://www.lamarzocco.com/ca/en/home-products/espresso-machines/linea-micra/",
+      "category": "Apartment",
+      "image": "https://www.lamarzocco.com/ca/wp-content/uploads/2023/04/linea-micra-1.png"
+    },
+    {
       "title": "Sofa",
       "link": "https://www.amazon.ca/dp/B0CZDXW6LF/",
       "image": "https://m.media-amazon.com/images/I/71bdZzvK1PL._AC_SL1500_.jpg",
@@ -260,12 +266,6 @@
       "image": "https://www.apple.com/v/ipad-mini/s/images/overview/design/colors__bf5ht6zwimtu_large_2x.jpg"
     },
     {
-      "title": "Espresso drinks wall art",
-      "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
-      "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
-      "category": "Apartment"
-    },
-    {
       "title": "Philips Hue Go",
       "link": "https://www.amazon.ca/Philips-Hue-7602031-with-Bluetooth/dp/B07Z8CNCLN",
       "category": "Apartment",
@@ -276,6 +276,41 @@
       "category": "Apartment",
       "title": "Ikea Varmblixt",
       "image": "https://www.ikea.com/ca/en/images/products/varmblixt-led-table-wall-lamp-orange-glass-round__1116616_pe872535_s5.jpg"
+    },
+    {
+      "title": "Caribbean crush tea",
+      "link": "https://davidstea.com/products/caribbean-crush-tea?variant=46532133978352",
+      "image": "https://davidstea.com/cdn/shop/files/10556DT01VAR0031960-10556US01VAR0024597-BI-1_c18f0391-7836-4242-9637-b2dea450d011.jpg"
+    },
+    {
+      "title": "Espresso drinks wall art",
+      "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
+      "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
+      "category": "Apartment"
+    },
+    {
+      "category": "Apartment",
+      "link": "https://sandgrainstudio.com/collections/music/products/radiohead-in-rainbows-midcentury-modern-home-art-print-abstract-minimalist-free-shipping",
+      "image": "https://sandgrainstudio.com/cdn/shop/products/il_fullxfull.2676126788_akxe.jpg",
+      "title": "In Rainbows Wall Art"
+    },
+    {
+      "link": "https://sandgrainstudio.com/collections/music/products/pink-floyd",
+      "category": "Apartment",
+      "title": "The Dark Side of the Moon Wall Art",
+      "image": "https://sandgrainstudio.com/cdn/shop/products/pinkfloyd_mockup.png"
+    },
+    {
+      "link": "https://sandgrainstudio.com/collections/music/products/mf-doom-mm-food",
+      "title": "MM.. FOOD Wall Art",
+      "category": "Apartment",
+      "image": "https://sandgrainstudio.com/cdn/shop/products/mfdoom_mockup.png"
+    },
+    {
+      "title": "Is This It Wall Art",
+      "link": "https://sandgrainstudio.com/collections/music/products/the-strokes",
+      "category": "Apartment",
+      "image": "https://sandgrainstudio.com/cdn/shop/products/il_fullxfull.2826287209_6aj5.jpg"
     }
   ]
 }
