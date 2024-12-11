@@ -11,6 +11,11 @@
       "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg"
     },
     {
+      "title": "Standart",
+      "link": "https://standartmag.com/collections/store/products/standart-subscription-yearly",
+      "image": "https://standartmag.com/cdn/shop/files/Standart_Dreams0784_copy.jpg"
+    },
+    {
       "title": "Sous vide cooker",
       "link": "https://www.amazon.ca/Inkbird-Immersion-Temperature-Stainless-Circulator/dp/B07RNWJZNR",
       "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg",
@@ -36,15 +41,9 @@
     },
     {
       "title": "Toaster",
-      "link": "https://www.amazon.ca/APPLICA-Spectrum-Brands-TR4900SSD-Stainless/dp/B01MQK2DA6",
+      "link": "https://www.costco.ca/salton-2-slice-touch-screen-toaster.product.4000298025.html",
       "category": "Apartment",
-      "image": "https://m.media-amazon.com/images/I/71BLyuNoQTL._AC_SL1500_.jpg"
-    },
-    {
-      "category": "Apartment",
-      "link": "https://www.canadiantire.ca/en/pdp/vida-by-paderno-everyday-series-premium-stainless-steel-cookware-set-dishwasher-oven-safe-10-pc-1426340p.html",
-      "title": "Cookware set",
-      "image": "https://media-www.canadiantire.ca/product/living/kitchen/cookware/1426340/vida-10-piece-everyday-series-stainless-steel-cookset-42cb59a4-381b-4cd7-9986-33ea55b1514f.png"
+      "image": "https://www.salton.com/cdn/shop/files/ET2151_GB_Main_a517e235-f251-4ec3-b091-fecccf13ba77.jpg"
     },
     {
       "title": "Sonos personal entertainment set with Beam",
@@ -81,16 +80,28 @@
       "image": "https://m.media-amazon.com/images/I/71yL4WsZbzL._AC_SL1500_.jpg"
     },
     {
-      "title": "Hario V60 pourover set",
-      "link": "https://www.hario-canada.ca/products/hario-craft-coffee-maker-pourover-kit?variant=29441399881811",
-      "category": "Apartment",
-      "image": "https://www.hario-canada.ca/cdn/shop/products/hario_vcnd-02b-ex_v60-craft-coffee-maker_pourover-set_1024x1024.jpg?v=1668441744"
-    },
-    {
       "title": "La Marzocco Linea Micra",
       "link": "https://www.lamarzocco.com/ca/en/home-products/espresso-machines/linea-micra/",
       "category": "Apartment",
       "image": "https://www.lamarzocco.com/ca/wp-content/uploads/2023/04/linea-micra-1.png"
+    },
+    {
+      "title": "Fellow Stagg EKG",
+      "link": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=18635551080563",
+      "category": "Apartment",
+      "image": "https://fellowproducts.com/cdn/shop/products/Stagg-EKG-01-Matte-Black-01_0b8b2e80-33e1-414d-ac19-a7a41eac02a1.png"
+    },
+    {
+      "link": "https://www.hario-canada.ca/collections/brewers/products/hario-craft-coffee-maker-pourover-kit",
+      "category": "Apartment",
+      "image": "https://www.hario-canada.ca/cdn/shop/products/hario_vcnd-02b-ex_v60-craft-coffee-maker_pourover-set_1024x1024.jpg",
+      "title": "Hario v60"
+    },
+    {
+      "link": "https://acaia.co/products/lunar_2021?variant=45650629820644",
+      "title": "Acaia Lunar scale",
+      "category": "Apartment",
+      "image": "https://cdn.acaia.co/web/img/Website_Compair_Lunar.png"
     },
     {
       "title": "Sofa",
@@ -234,6 +245,12 @@
       "title": "Kirby and the Forgotten Land",
       "link": "https://www.amazon.ca/KirbyTM-Forgotten-Land-Nintendo-Standard/dp/B09H6Z6PKB",
       "image": "https://m.media-amazon.com/images/I/915PR-X7KEL._AC_SL1500_.jpg",
+      "category": "Games"
+    },
+    {
+      "title": "Super Mario Party Jamboreee",
+      "link": "https://www.amazon.ca/dp/B0D8C3XVNN/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/81pggeFCi3L._AC_SL1500_.jpg",
       "category": "Games"
     },
     {
