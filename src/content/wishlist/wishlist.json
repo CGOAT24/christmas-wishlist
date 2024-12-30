@@ -11,15 +11,9 @@
       "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg"
     },
     {
-      "title": "Standart",
-      "link": "https://standartmag.com/collections/store/products/standart-subscription-yearly",
-      "image": "https://standartmag.com/cdn/shop/files/Standart_Dreams0784_copy.jpg"
-    },
-    {
-      "title": "Sous vide cooker",
-      "link": "https://www.amazon.ca/Inkbird-Immersion-Temperature-Stainless-Circulator/dp/B07RNWJZNR",
-      "image": "https://m.media-amazon.com/images/I/71Zic1L48uL._AC_SL1500_.jpg",
-      "category": "Apartment"
+      "title": "The Rising Storm",
+      "link": "https://www.amazon.ca/Star-Wars-Rising-Storm-Republic/dp/0593159411",
+      "image": "https://m.media-amazon.com/images/I/81dOdMmk3UL._SL1500_.jpg"
     },
     {
       "title": "Nike Air Max Alpha Trainer 6",
@@ -31,12 +25,6 @@
       "title": "Ninja Creami",
       "link": "https://www.amazon.ca/dp/B0CHBNXJ24/?psc=1",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F3d2f4025-1a55-4998-8add-460b9f552ee4.08ca710509874887581241a53951635f.jpeg&f=1&nofb=1&ipt=42c14493c9cf5d671e30342742ce6482ef919526c2fc642cb8e010f75e39673d&ipo=images",
-      "category": "Apartment"
-    },
-    {
-      "title": "Rice cooker",
-      "link": "https://www.amazon.ca/dp/B074F16GJT/",
-      "image": "https://m.media-amazon.com/images/I/611L+lthBPL._AC_SL1500_.jpg",
       "category": "Apartment"
     },
     {
@@ -64,7 +52,7 @@
     {
       "title": "Turin DF54",
       "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falternativebrewing.com.au%2Fcdn%2Fshop%2Ffiles%2FTurin-DF54-Single-Dose-Coffee-Grinder_1.jpg%3Fv%3D1708489734&f=1&nofb=1&ipt=1d53259c8f14ee2d4620112d9d6d4c7e1ac0930fa260e652fb1bfd7102969488&ipo=images",
-      "link": "https://www.turingrinders.com/products/turin-df54-single-dose-flat-burr-grinder-1",
+      "link": "https://coffeeaddicts.ca/products/turin-df54-single-dose-coffee-grinder",
       "category": "Apartment"
     },
     {
@@ -104,6 +92,12 @@
       "image": "https://cdn.acaia.co/web/img/Website_Compair_Lunar.png"
     },
     {
+      "link": "https://coffeeaddicts.ca/products/basic-knockbox",
+      "category": "Apartment",
+      "title": "knockbox",
+      "image": "https://coffeeaddicts.ca/cdn/shop/products/REPAknockboxblack_704x704.jpg"
+    },
+    {
       "title": "Sofa",
       "link": "https://www.amazon.ca/dp/B0CZDXW6LF/",
       "image": "https://m.media-amazon.com/images/I/71bdZzvK1PL._AC_SL1500_.jpg",
@@ -126,24 +120,6 @@
       "link": "https://www.amazon.ca/dp/B09PH1N67T/?psc=1",
       "image": "https://m.media-amazon.com/images/I/71SS64N6ZJL._AC_SL1500_.jpg",
       "category": "Vinyl"
-    },
-    {
-      "title": "Grilled edamames",
-      "link": "https://shopsante.ca/collections/collations-proteinees-new-1/products/go-beanz-jimmy-sevigny-26g",
-      "image": "https://shopsante.ca/cdn/shop/files/CopiedeGO_BEANZ_DISPLAY30SACS-6031.jpg?v=1718048313&width=2820",
-      "category": "Gym"
-    },
-    {
-      "title": "Quest chips",
-      "link": "https://shopsante.ca/collections/collations-proteinees-new-1/products/quest-protein-chips-32g",
-      "image": "https://shopsante.ca/cdn/shop/products/cbbcbcbbc_a7f0811a-e23c-4074-82d8-b293f94a11bc.jpg?v=1718046662&width=480",
-      "category": "Gym"
-    },
-    {
-      "title": "Protein bars",
-      "link": "https://shopsante.ca/products/barebells-bar-proteinee-55g?variant=41368581374019",
-      "image": "https://shopsante.ca/cdn/shop/files/Barebells_Creamy_crisp_packshot_us-576x576_576x_54ecf045-2d08-433a-a98a-504dcf2685de.png?v=1718050467",
-      "category": "Gym"
     },
     {
       "title": "Protein powder",
@@ -173,12 +149,6 @@
       "link": "https://pdoomrecords.com/products/flight-b741",
       "title": "Flight b741",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconsequence.net%2Fwp-content%2Fuploads%2F2024%2F07%2Fking-gizzard-lizard-wizard-flight-b741-artwork.jpg%3Fresize%3D300&f=1&nofb=1&ipt=1c646c59b01407768cf52438836d7e8687693381ac0c24aea81be18e42b1a059&ipo=images",
-      "category": "Vinyl"
-    },
-    {
-      "title": "Room On Fire",
-      "link": "https://www.amazon.ca/Room-Fire-Vinyl-Strokes/dp/B0000DBJA7",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-fXAK2ydPw3M%2FWjNbzybaSQI%2FAAAAAAAAL_k%2Fkq3YIcxhaxIUKdWlsVSNMbBk29hG9lqeQCLcBGAs%2Fs1600%2FRoom%252BOn%252BFire.jpg&f=1&nofb=1&ipt=8eb172a8945fa9356bd45ffb4679cfe8c05da96c3274436d0eae8042de16cf2d&ipo=images",
       "category": "Vinyl"
     },
     {
@@ -218,34 +188,9 @@
       "category": "Vinyl"
     },
     {
-      "title": "Super Mario Bros. Wonder",
-      "link": "https://www.amazon.ca/Super-Mario-Bros-TM-Wonder-Nintendo/dp/B0C8VP76Z2",
-      "image": "https://m.media-amazon.com/images/I/81sApEuu0eL._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
-      "title": "The Legend of Zelda: Tears of the Kingdom",
-      "link": "https://www.amazon.ca/Legend-ZeldaTM-Kingdom-Nintendo-Switch/dp/B0BV8XX3FF",
-      "image": "https://m.media-amazon.com/images/I/912NlV3YxCL._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
-      "title": "Kirby and the Forgotten Land",
-      "link": "https://www.amazon.ca/KirbyTM-Forgotten-Land-Nintendo-Standard/dp/B09H6Z6PKB",
-      "image": "https://m.media-amazon.com/images/I/915PR-X7KEL._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
-      "title": "Super Mario Party Jamboreee",
-      "link": "https://www.amazon.ca/dp/B0D8C3XVNN/?psc=1",
-      "image": "https://m.media-amazon.com/images/I/81pggeFCi3L._AC_SL1500_.jpg",
-      "category": "Games"
-    },
-    {
       "title": "Steam Deck docking station",
       "link": "https://store.steampowered.com/steamdeckdock",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images",
-      "category": "Games"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images"
     },
     {
       "title": "London Calling",
@@ -264,12 +209,6 @@
       "link": "https://cameronwinter.bandcamp.com/album/heavy-metal",
       "category": "Vinyl",
       "image": "https://f4.bcbits.com/img/a2926452844_16.jpg"
-    },
-    {
-      "title": "PS5 charging station",
-      "category": "Games",
-      "link": "https://www.amazon.ca/DualSense-Charging-Station/dp/B08FC6Y4VG",
-      "image": "https://m.media-amazon.com/images/I/51jLsY8Yx0L._AC_SL1000_.jpg"
     },
     {
       "title": "Philips Hue Go",
