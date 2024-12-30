@@ -94,7 +94,7 @@
     {
       "link": "https://coffeeaddicts.ca/products/basic-knockbox",
       "category": "Apartment",
-      "title": "knockbox",
+      "title": "Knockbox",
       "image": "https://coffeeaddicts.ca/cdn/shop/products/REPAknockboxblack_704x704.jpg"
     },
     {
@@ -188,11 +188,6 @@
       "category": "Vinyl"
     },
     {
-      "title": "Steam Deck docking station",
-      "link": "https://store.steampowered.com/steamdeckdock",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fsteam-deck-dock-1645821126863-(1).jpg&f=1&nofb=1&ipt=bb566994b1f462c0d13ca4bd14a72ea219393564b806b08882efb7ba6e3d27ca&ipo=images"
-    },
-    {
       "title": "London Calling",
       "link": "https://www.amazon.ca/London-Calling-Vinyl-Clash/dp/B00XDCB93Y",
       "image": "https://m.media-amazon.com/images/I/71lsBqSZ5zL._AC_SL1000_.jpg",
@@ -256,6 +251,21 @@
       "link": "https://sandgrainstudio.com/collections/music/products/the-strokes",
       "category": "Apartment",
       "image": "https://sandgrainstudio.com/cdn/shop/products/il_fullxfull.2826287209_6aj5.jpg"
+    },
+    {
+      "title": "Nintendo Switch wishlist",
+      "link": "https://www.dekudeals.com/wishlist/b5qcbf5wtp?filter[platform]=switch",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.tfVJ1cqVFJUtS7QihS6F_QHaHa%26pid%3DApi&f=1&ipt=b304c5308fc2568c913f2306853ac40db43aca8c480a89620b24448ee5702427"
+    },
+    {
+      "link": "https://www.dekudeals.com/wishlist/b5qcbf5wtp?filter[platform]=ps5",
+      "title": "PS5 wishlist",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F7762898.jpg&f=1&nofb=1&ipt=c6abf3baeaf8ec9ea4635d9499cb70024a25aef2d66fc4d8bd8cf6a557ca0d9d"
+    },
+    {
+      "link": "https://isthereanydeal.com/uid/x9evd/waitlist/",
+      "title": "Steam wishlist",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LmWbO-vKKZxb9_W4CGVkOgHaHa%26pid%3DApi&f=1&ipt=f27dc7f58e958898c76d8d3ab80bf851bf26f19b3cfb880326db02bb3ef1e997"
     }
   ]
 }
