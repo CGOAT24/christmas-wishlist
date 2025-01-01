@@ -16,6 +16,11 @@
       "image": "https://m.media-amazon.com/images/I/81dOdMmk3UL._SL1500_.jpg"
     },
     {
+      "title": "The Muscle Ladder",
+      "link": "https://www.amazon.ca/dp/1628604867/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/81HNjepZ1OL._SL1500_.jpg"
+    },
+    {
       "title": "Nike Air Max Alpha Trainer 6",
       "link": "https://www.nike.com/ca/t/air-max-alpha-trainer-6-workout-shoes-kPTTDz/FQ1833-001",
       "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99852c57-8f84-40eb-81af-a36fda66acb1/M+AIR+MAX+ALPHA+TRAINER+6.png",
@@ -68,12 +73,6 @@
       "image": "https://m.media-amazon.com/images/I/71yL4WsZbzL._AC_SL1500_.jpg"
     },
     {
-      "title": "La Marzocco Linea Micra",
-      "link": "https://www.lamarzocco.com/ca/en/home-products/espresso-machines/linea-micra/",
-      "category": "Apartment",
-      "image": "https://www.lamarzocco.com/ca/wp-content/uploads/2023/04/linea-micra-1.png"
-    },
-    {
       "title": "Fellow Stagg EKG",
       "link": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=18635551080563",
       "category": "Apartment",
@@ -86,16 +85,16 @@
       "title": "Hario v60"
     },
     {
-      "link": "https://acaia.co/products/lunar_2021?variant=45650629820644",
-      "title": "Acaia Lunar scale",
+      "title": "TIMEMORE Basic 2.0 espresso scale",
+      "link": "https://www.timemore.com/collections/coffee-scale/products/timemore-basic-2-0-electronic-espresso-scale-with-timer",
       "category": "Apartment",
-      "image": "https://cdn.acaia.co/web/img/Website_Compair_Lunar.png"
+      "image": "https://www.timemore.com/cdn/shop/files/basic2_6a5e72d4-4a6c-4965-af06-a229184744c3_1800x1800.png"
     },
     {
-      "link": "https://coffeeaddicts.ca/products/basic-knockbox",
+      "link": "https://www.amazon.ca/Espresso-Shock-Absorbent-Removable-Detachable-Non-Slip/dp/B0B5F8YZW7",
       "category": "Apartment",
       "title": "Knockbox",
-      "image": "https://coffeeaddicts.ca/cdn/shop/products/REPAknockboxblack_704x704.jpg"
+      "image": "https://m.media-amazon.com/images/I/61oA6vYpxTL._AC_SL1500_.jpg"
     },
     {
       "title": "Sofa",
@@ -221,6 +220,11 @@
       "title": "Caribbean crush tea",
       "link": "https://davidstea.com/products/caribbean-crush-tea?variant=46532133978352",
       "image": "https://davidstea.com/cdn/shop/files/10556DT01VAR0031960-10556US01VAR0024597-BI-1_c18f0391-7836-4242-9637-b2dea450d011.jpg"
+    },
+    {
+      "title": "Tock",
+      "link": "https://www.amazon.ca/dp/B0036W6HS8/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/81dugTtj2LL._AC_SL1500_.jpg"
     },
     {
       "title": "Espresso drinks wall art",
