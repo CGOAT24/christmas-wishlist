@@ -1,24 +1,33 @@
 {
   "items": [
     {
-      "title": "1000 Record Covers - Michael Ochs",
-      "link": "https://www.amazon.ca/dp/383655058X/?psc=1",
-      "image": "https://m.media-amazon.com/images/I/91-aLFaVEGL._SL1500_.jpg"
+      "title": "Yeti Rambler 24oz mug",
+      "link": "https://www.amazon.ca/dp/B0CT6BQ9L1/",
+      "image": "https://m.media-amazon.com/images/I/51W0QzzbehL._AC_SL1500_.jpg"
     },
     {
-      "title": "Foundation - Isaac Asimov",
+      "title": "1000 Record Covers",
+      "link": "https://www.amazon.ca/dp/383655058X/?psc=1",
+      "image": "https://m.media-amazon.com/images/I/91-aLFaVEGL._SL1500_.jpg",
+      "category": "Books"
+    },
+    {
+      "title": "Foundation",
       "link": "https://www.amazon.ca/Foundation-Isaac-Asimov/dp/0553293354",
-      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg"
+      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SL1500_.jpg",
+      "category": "Books"
     },
     {
       "title": "The Rising Storm",
       "link": "https://www.amazon.ca/Star-Wars-Rising-Storm-Republic/dp/0593159411",
-      "image": "https://m.media-amazon.com/images/I/81dOdMmk3UL._SL1500_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81dOdMmk3UL._SL1500_.jpg",
+      "category": "Books"
     },
     {
       "title": "The Muscle Ladder",
       "link": "https://www.amazon.ca/dp/1628604867/?psc=1",
-      "image": "https://m.media-amazon.com/images/I/81HNjepZ1OL._SL1500_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81HNjepZ1OL._SL1500_.jpg",
+      "category": "Books"
     },
     {
       "title": "Nike Air Max Alpha Trainer 6",
@@ -58,13 +67,9 @@
     },
     {
       "link": "https://www.amazon.ca/dp/0345404475/?psc=1",
-      "title": "Do Androids Dream of Electric Sheep? - Philip K. Dick",
-      "image": "https://m.media-amazon.com/images/I/91E9fEdeW1L._SL1500_.jpg"
-    },
-    {
-      "title": "Yeti Rambler 24oz mug",
-      "link": "https://www.amazon.ca/dp/B0CT6BQ9L1/",
-      "image": "https://m.media-amazon.com/images/I/51W0QzzbehL._AC_SL1500_.jpg"
+      "title": "Do Androids Dream of Electric Sheep?",
+      "image": "https://m.media-amazon.com/images/I/91E9fEdeW1L._SL1500_.jpg",
+      "category": "Books"
     },
     {
       "title": "Turin DF54",
@@ -271,6 +276,78 @@
       "link": "https://isthereanydeal.com/uid/x9evd/waitlist/",
       "title": "Steam wishlist",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LmWbO-vKKZxb9_W4CGVkOgHaHa%26pid%3DApi&f=1&ipt=f27dc7f58e958898c76d8d3ab80bf851bf26f19b3cfb880326db02bb3ef1e997"
+    },
+    {
+      "title": "The Last Ronin",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/teenage-mutant-ninja-turtles-the-last-ronin/9781684058419.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/1684058414/1.jpg"
+    },
+    {
+      "title": "Animal Farm",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/animal-farm/9780141036137.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0141036133/1.jpg"
+    },
+    {
+      "title": "Batman: A Death In The Family",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/batman-a-death-in-the-family/9781401232740.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/1401232744/1.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/brave-new-world/9780061767647.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0061767646/1.jpg"
+    },
+    {
+      "title": "All-Star Superman",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/all-star-superman-dc-compact-comics-edition/9781779527257.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/177952725X/1.jpg"
+    },
+    {
+      "title": "Batman: The Court of Owls Saga",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/batman-the-court-of-owls-saga-dc-compact-comics-edition/9781779527271.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/1779527276/1.jpg"
+    },
+    {
+      "title": "Greatest Hits",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/greatest-hits/9781454953371.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/1454953373/1.jpg"
+    },
+    {
+      "title": "Hyperion",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/hyperion/9780399178610.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0399178619/1.jpg"
+    },
+    {
+      "title": "The Notebook, the Proof, the Third Lie: Three Novels",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/the-notebook-the-proof-the-third-lie-three-novels/9780802135063.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0802135064/1.jpg"
+    },
+    {
+      "title": "Mistborn: The Final Empire",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/mistborn-the-final-empire/9781250868282.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/1250868289/1.jpg"
+    },
+    {
+      "title": "1984",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/1984/9780735234611.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0735234612/1.jpg"
+    },
+    {
+      "title": "The Journey to the West",
+      "category": "Books",
+      "link": "https://www.indigo.ca/en-ca/the-journey-to-the-west-revised-edition-volume-1/9780226971322.html",
+      "image": "https://dynamic.indigoimages.ca/v1/books/books/0226971325/1.jpg"
     }
   ]
 }
