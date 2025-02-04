@@ -134,19 +134,19 @@
     {
       "title": "Protein powder",
       "link": "https://shopsante.ca/products/vrac-isolate?variant=23683256254528",
-      "image": "https://shopsante.ca/cdn/shop/files/Vrac_Isolate_Biscuitetcr_e_05b4dc0e-8846-45f2-8f2d-192d9432030f.jpg?v=1718046060&width=1860",
+      "image": "https://shopsante.ca/cdn/shop/files/Vrac_Isolate_Biscuitetcr_e_05b4dc0e-8846-45f2-8f2d-192d9432030f.jpg",
       "category": "Gym"
     },
     {
       "title": "Preworkout",
-      "link": "https://shopsante.ca/products/allmax-impact-igniter-extrem-360g?variant=40866618179651",
-      "image": "https://shopsante.ca/cdn/shop/files/main.jpg?v=1718048134&width=840",
+      "link": "https://shopsante.ca/products/cbum-christophers-secret-stuff-21oz?variant=40812069945411",
+      "image": "https://shopsante.ca/cdn/shop/files/CBUM_850039445668_4000x4000_1_1.png",
       "category": "Gym"
     },
     {
       "title": "Creatine",
       "link": "https://shopsante.ca/collections/creatine-new/products/allmax-creatine-monohydrate-400g",
-      "image": "https://shopsante.ca/cdn/shop/products/isddsidsooidsio_5f856a65-8d8f-4417-866d-7f358596b4e2.jpg?v=1718046401&width=480",
+      "image": "https://shopsante.ca/cdn/shop/products/isddsidsooidsio_5f856a65-8d8f-4417-866d-7f358596b4e2.jpg",
       "category": "Gym"
     },
     {
@@ -233,11 +233,6 @@
       "image": "https://davidstea.com/cdn/shop/files/10556DT01VAR0031960-10556US01VAR0024597-BI-1_c18f0391-7836-4242-9637-b2dea450d011.jpg"
     },
     {
-      "title": "Tock",
-      "link": "https://www.amazon.ca/dp/B0036W6HS8/?psc=1",
-      "image": "https://m.media-amazon.com/images/I/81dugTtj2LL._AC_SL1500_.jpg"
-    },
-    {
       "title": "Espresso drinks wall art",
       "link": "https://sandgrainstudio.com/products/espresso-drinks?variant=44610362212600",
       "image": "https://sandgrainstudio.com/cdn/shop/files/espresso_drinks.jpg?v=1710996816",
@@ -314,22 +309,10 @@
       "image": "https://dynamic.indigoimages.ca/v1/books/books/1779527276/1.jpg"
     },
     {
-      "title": "Greatest Hits",
-      "category": "Books",
-      "link": "https://www.indigo.ca/en-ca/greatest-hits/9781454953371.html",
-      "image": "https://dynamic.indigoimages.ca/v1/books/books/1454953373/1.jpg"
-    },
-    {
       "title": "Hyperion",
       "category": "Books",
       "link": "https://www.indigo.ca/en-ca/hyperion/9780399178610.html",
       "image": "https://dynamic.indigoimages.ca/v1/books/books/0399178619/1.jpg"
-    },
-    {
-      "title": "The Notebook, the Proof, the Third Lie: Three Novels",
-      "category": "Books",
-      "link": "https://www.indigo.ca/en-ca/the-notebook-the-proof-the-third-lie-three-novels/9780802135063.html",
-      "image": "https://dynamic.indigoimages.ca/v1/books/books/0802135064/1.jpg"
     },
     {
       "title": "Mistborn: The Final Empire",
